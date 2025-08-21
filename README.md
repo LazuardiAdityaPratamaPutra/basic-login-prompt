@@ -10,7 +10,7 @@ Program akan meminta **username** dan **password**, lalu memvalidasi input dari 
 
 ## 🛠️ Cara Menjalankan
 1. Clone repository ini:
-   git clone https://github.com/username/login-js-sederhana.git
+   git clone https://github.com/LazuardiAdityaPratamaPutra/basic-login-prompt
 2. Buka file index.html di browser.
 3. Ikuti instruksi login yang muncul.
 
